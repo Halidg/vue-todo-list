@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Inter:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;  
+  }
+  
+  body {
+    font-size: 18px;
+    font-family: 'Gamja Flower', cursive;
+    color: #2c3e50;
+    background-color: #FAACA8;
+  }
+
+  .active {
+    background-color: rgb(207, 207, 9)   
+  }
+  
+  .done {
+    background-color: rgb(31, 172, 31);  
+  }
+
+  .all {
+    background-color: #ee8883;  
+  }
+
+  .delete {
+    background-color: red;
+  }
